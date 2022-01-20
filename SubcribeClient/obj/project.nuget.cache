@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CbpyP+lQArrh017WJs9Fcx06p/osJupCLBmDk6KtearFttHEID4DFNTtZ9MN9zd+sa04XG71GCsXpGQc37MKhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hieng\\source\\repos\\SubcribeClient\\SubcribeClient\\SubcribeClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hieng\\.nuget\\packages\\mqttnet\\3.1.1\\mqttnet.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
